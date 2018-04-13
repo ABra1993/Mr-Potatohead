@@ -96,13 +96,17 @@
     <android.support.v7.widget.GridLayout
         android:id="@+id/gridLayout"
         android:layout_width="198dp"
-        android:layout_height="154dp"
+        android:layout_height="158dp"
         android:layout_marginBottom="8dp"
-        android:layout_marginStart="16dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.19"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.496">
 
         <CheckBox
             android:id="@+id/checkbox_arms"

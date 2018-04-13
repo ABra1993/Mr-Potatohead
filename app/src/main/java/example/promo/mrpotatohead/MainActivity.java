@@ -5,7 +5,7 @@
  *
  * Date: 13-4-2018
  *
- * Description: This script is part of the application Mr. Potatohead. Initially it display the
+ * Description: This script is part of the application Mr. Potatohead. Initially it displays the
  * toy’s body. This script checks if the user checks/unchecks any of the checkboxes below the toy,
  * and makes the corresponding body part or accessory visible/invisible.
  */
